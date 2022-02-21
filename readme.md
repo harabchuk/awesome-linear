@@ -15,7 +15,6 @@ A list of awesome Linear resources, add-ons, integrations, links, etc.
 
 Third-party add-ons to Linear to enhance Linear with more functionality.
 
-- [LinrAddons Email](https://email.linraddons.com/) Two-way email integration. Run a service desk or recieve bug reports inside Linear.
 - [Nearline](https://www.nearline.io/) Simple analytics
 for teams on Linear
 - [LinearSync](https://linear-sync.com/) LinearSync sends GitHub issues to Linear. This lets open source maintainers better integrate community feedback into the Linear Method.
